@@ -20,9 +20,8 @@
 
 title: A Better Tomorrow
 description: A list of companies that are working to make a better tomorrow that hire Software Engineers.
-baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://theflippedbit.com"
-url: "http://127.0.0.1:4000"
+baseurl: "/abettertomorrow" # the subpath of your site, e.g. /blog
+url: "https://theflippedbit.com"
 github_username:  theflippedbit
 
 # Build settings
