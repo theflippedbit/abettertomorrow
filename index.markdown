@@ -4,8 +4,6 @@ layout: default
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.2/css/jquery.dataTables.css">
 
-{{site.description}}
-
 <table id="companies" class="display" style="width:100%">
     <thead>
         <tr>
@@ -17,27 +15,15 @@ layout: default
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://theoceancleanup.com/careers" target="_blank">The Ocean Cleanup</a></td>
-            <td>Environment Cleanup</td>
-            <td>?</td>
-            <td>Netherlands</td>
-        </tr>
-        <tr>
-            <td><a href="https://theoceancleanup.com/careers" target="_blank">Mint Innovation</a></td>
-            <td>Recycling</td>
-            <td>?</td>
-            <td>New Zealand</td>
-        </tr>
-        <tr>
-            <td><a href="https://theoceancleanup.com/careers" target="_blank">The Ocean Cleanup</a></td>
-            <td>Farming</td>
-            <td>?</td>
+            <td><a href="https://www.spacex.com/careers" target="_blank">SpaceX</a></td>
+            <td>Space</td>
+            <td>Python, C#.NET, Go, Java, Angular, React</td>
             <td>United States</td>
         </tr>
         <tr>
-            <td><a href="https://www.spacex.com/careers" target="_blank">SpaceX</a></td>
-            <td>Space</td>
-            <td></td>
+            <td><a href="https://boweryfarming.com/farm-careers" target="_blank">Bowery Farming</a></td>
+            <td>Farming, Robotics</td>
+            <td>Elixir, Phoenix, Rails, Node, C, C++, Nerves, Python, Vue.js, React, Angular</td>
             <td>United States</td>
         </tr>
     </tbody>
