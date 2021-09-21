@@ -26,6 +26,24 @@ layout: default
             <td>Elixir, Phoenix, Rails, Node, C, C++, Nerves, Python, Vue.js, React, Angular</td>
             <td>United States</td>
         </tr>
+        <tr>
+            <td><a href="https://www.khanacademy.org/careers" target="_blank">Khan Academy</a></td>
+            <td>Education</td>
+            <td>JavaScript, React, Redux, GraphQL, Python, Go</td>
+            <td>United States, Canada, India</td>
+        </tr>
+        <tr>
+            <td><a href="https://goforward.com/jobs" target="_blank">Forward</a></td>
+            <td>Health</td>
+            <td>Not specific</td>
+            <td>United States</td>
+        </tr>
+        <tr>
+            <td><a href="https://web.noom.com/careers/" target="_blank">Noom</a></td>
+            <td>Health</td>
+            <td>Java, Python, Go, Django, React, SQL</td>
+            <td>United States, Germany, Canada, United Kingdom</td>
+        </tr>
     </tbody>
 </table>
 
